@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import Counter from './components/Counter'
+import Counter from './components/Counter';
 import './App.css';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         <p>
           Steffano Malaga
         </p>
-        <Counter/>
+        <Counter />
       </header>
     </div>
   );
